@@ -1,0 +1,11 @@
+.project
+.classpath
+build
+.settings
+.tern-project
+runner/node_modules
+runner/npm-debug.log
+tasks/node_modules
+runner/karma_html
+tasks/npm-debug.log
+tasks/po
